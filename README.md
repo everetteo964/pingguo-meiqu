@@ -7,8 +7,8 @@
 ## 目录
 
 - [美区 Apple ID 注册](#美区-apple-id-注册)
-  - [注册 Apple ID](#注册-apple-id)
-  - [激活 Apple ID](#激活-apple-id)
+- [注册 Apple ID](#注册-apple-id)
+- [激活 Apple ID](#激活-apple-id)
 - [礼品卡充值](#礼品卡充值)
 - [总结](#总结)
 
